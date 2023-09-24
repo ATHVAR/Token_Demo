@@ -1,0 +1,39 @@
+[{"description": "Beautiful Munnar!! Gods Own Country.", 
+"external_url": "https://kba.ai/", 
+"image": "https://emerald-fascinating-orca-553.mypinata.cloud/ipfs/Qme6d1NmYaFodvCnfgrdtuq9XvJ5MRXmWaAqACcDeiFEEJ", 
+"name": "Amazing Munnar",
+"attributes":[{
+    "trait_type": "place", 
+    "value": "munnar"
+  }, 
+  {
+    "trait_type": "scenic", 
+    "value": "teaestate"
+  } ] 
+},
+{"description": "Beautful Kollam!! Gods Own Country.", 
+"external_url": "https://kba.ai/", 
+"image": "https://emerald-fascinating-orca-553.mypinata.cloud/ipfs/QmNzA2KeXNq5QXp15df6mnZwb1CvHn5DW761drjQS28isp", 
+"name": "Amazing Kollam",
+"attributes":[{
+    "trait_type": "place", 
+    "value": "kollam"
+  }, 
+  {
+    "trait_type": "scenic", 
+    "value": "seashore"
+  } ] 
+},
+{"description": "Beautiful Palakkad!!Gods Own Country.", 
+"external_url": "https://kba.ai/", 
+"image": "https://emerald-fascinating-orca-553.mypinata.cloud/ipfs/QmahfzpWW6WvWh3smNyrf2FMafZAaQR7srZuDE4YtwtTnZ", 
+"name": "Amazing Palakkad",
+"attributes":[{
+    "trait_type": "place", 
+    "value": "Palakkad"
+  }, 
+  {
+    "trait_type": "scenic", 
+    "value": "Field"
+  } ] 
+}]
